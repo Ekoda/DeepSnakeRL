@@ -9,7 +9,6 @@ A Python implementation of Snake with two RL agent options:
 - **Deep Q-Network (DQN)** with continuous state space
 - Integrated Pygame visualization
 - Training metrics tracking
-- M1 Mac optimization
 
 Developed in collaboration with DeepSeek-R1 to explore:
 1. LLM-assisted code generation
