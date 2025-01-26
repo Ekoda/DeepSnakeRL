@@ -132,7 +132,6 @@ class SnakeGame:
         self.head = (prev_head[0] + dx, prev_head[1] + dy)
         self.snake.appendleft(self.head)
         
-        # Check game over
         reward = 0
         done = False
         if self._is_collision() or self.frame_iteration > 100*len(self.snake):

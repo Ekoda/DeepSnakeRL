@@ -1,4 +1,3 @@
-# PythonRL/main.py
 import argparse
 import numpy as np
 from game import SnakeGame
