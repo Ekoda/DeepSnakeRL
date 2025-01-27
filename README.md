@@ -29,10 +29,6 @@ Developed in collaboration with DeepSeek-R1 to explore:
 ## ⚙️ Installation
 
 ```bash
-# Clone repository
-git clone https://github.com/yourusername/snake-rl-deepseek.git
-cd snake-rl-deepseek
-
 # Install dependencies
 pip install -r requirements.txt
 
